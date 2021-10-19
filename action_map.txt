@@ -1,0 +1,1 @@
+{"normal_1_2": 0, "normal_1_3": 1, "normal_1_4": 2, "normal_2_3": 3, "normal_2_4": 4, "normal_3_4": 5, "combine_1_2": 6, "combine_1_3": 7, "combine_1_4": 8, "combine_2_3": 9, "combine_2_4": 10, "combine_3_4": 11}

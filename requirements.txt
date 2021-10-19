@@ -1,0 +1,7 @@
+torch==1.8.0+cu101
+numpy==1.17.0
+keras_rl==0.4.2
+matplotlib==2.2.2
+sympy==1.4
+ipython==7.28.0
+utils==1.0.1
