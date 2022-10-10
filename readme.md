@@ -7,4 +7,9 @@
 
 更多运行结果可以查看项目内的docx，由于sympy本身的强大，比起代码怎么写，苦恼更多是“使用简便运算律的‘原因’究竟是什么？”这种问题，只要相加等于10就应该运用结合律吗？实际并不是。把11拆成10和1就一定变得简便了吗？也不是。对哪个数使用什么运算律，大概在强化学习里就是需要进行打分的action，对我来说即使只是小学数学也是理解不足，导致算法最后并没有用到产品中。  
 
-![结果](https://github.com/CloudTsang/SympyCalculator/blob/main/test1.png?raw=true)
+![结果](https://gitee.com/cloudtsang/SympyCalculator/blob/main/test1.png)
+![结果](https://gitee.com/cloudtsang/SympyCalculator/blob/main/test2.png)
+![结果](https://gitee.com/cloudtsang/SympyCalculator/blob/main/test3.png)
+![结果](https://gitee.com/cloudtsang/SympyCalculator/blob/main/test4.png)
+![结果](https://gitee.com/cloudtsang/SympyCalculator/blob/main/test5.png)
+![结果](https://gitee.com/cloudtsang/SympyCalculator/blob/main/test6.png)
